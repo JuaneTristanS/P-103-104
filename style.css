@@ -1,0 +1,12 @@
+.cam {
+    height: 280px;
+    width: 350px;
+    border-style: dotted;
+    border-color: blue;
+    border-width:10px;
+}
+
+body {
+    background-color:navajowhite;
+    color: darkviolet;
+}
